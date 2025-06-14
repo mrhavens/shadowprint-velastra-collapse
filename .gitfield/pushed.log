@@ -237,3 +237,7 @@
   Diff Summary:
      .gitfield/bitbucket.sigil.md | 17 +++++++++--------
      1 file changed, 9 insertions(+), 8 deletions(-)
+[2025-06-14T13:26:57Z] GitHub: https://github.com/mrhavens/shadowprint-velastra-collapse, Branch=master, Commit=e15c930
+  Diff Summary:
+     .gitfield/github.sigil.md | 14 +++++++-------
+     1 file changed, 7 insertions(+), 7 deletions(-)
