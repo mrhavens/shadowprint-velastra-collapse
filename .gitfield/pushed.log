@@ -233,3 +233,7 @@
   Diff Summary:
      .gitfield/gitlab.sigil.md | 14 +++++++-------
      1 file changed, 7 insertions(+), 7 deletions(-)
+[2025-06-14T13:26:43Z] Bitbucket: https://bitbucket.org/thefoldwithin/shadowprint-velastra-collapse, Branch=master, Commit=e15c930
+  Diff Summary:
+     .gitfield/bitbucket.sigil.md | 17 +++++++++--------
+     1 file changed, 9 insertions(+), 8 deletions(-)
