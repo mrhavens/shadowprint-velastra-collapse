@@ -1,0 +1,22 @@
+{
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/shadowprint-velastra-collapse",
+  "mirrors": [
+    "https://github.com/mrhavens/shadowprint-velastra-collapse",
+    "https://gitlab.com/mrhavens/shadowprint-velastra-collapse",
+    "https://bitbucket.org/thefoldwithin/shadowprint-velastra-collapse",
+    "https://remember.thefoldwithin.earth/mrhavens/shadowprint-velastra-collapse",
+    "https://codeberg.org/mrhavens/shadowprint-velastra-collapse",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "timestamp": "2025-06-14T13:01:53Z",
+  "commit": "72afef2",
+  "tree_hash": "a79101b2b425e036f8dd3dee619d7ca4f4cdcae2",
+  "synced_cycles": 0,
+  "gpg_signatures": [
+
+  ]
+}
