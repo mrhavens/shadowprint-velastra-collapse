@@ -341,3 +341,7 @@
   Diff Summary:
      .gitfield/radicle.sigil.md | 16 ++++++++--------
      1 file changed, 8 insertions(+), 8 deletions(-)
+[2025-06-14T13:33:48Z] Forgejo: https://remember.thefoldwithin.earth/mrhavens/shadowprint-velastra-collapse, Branch=master, Commit=c2cd478
+  Diff Summary:
+     .gitfield/remember.sigil.md | 14 +++++++-------
+     1 file changed, 7 insertions(+), 7 deletions(-)
