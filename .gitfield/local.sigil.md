@@ -6,26 +6,26 @@
 - **Local Repo Path**: `/mnt/h/fieldcraft/shadowprint-velastra-collapse`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-14 08:14:46`
+- **Repo Created**: `2025-06-14 08:23:48`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-14 08:14:46`
-- **Last Commit SHA**: `f9397231f56ba1b5c3f70a8bf94eda232a8860c1`
-- **Last Commit Message**: `Generated index.json at 2025-06-14T13:12:27Z`
+- **This Commit Timestamp**: `2025-06-14 08:23:48`
+- **Last Commit SHA**: `bc06fecb0990e7ad84101313aab56b39cdac240f`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-14T13:23:41Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Sat Jun 14 08:14:41 2025 -0500`
+- **Last Commit Date**: `Sat Jun 14 08:23:48 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `114`
+- **Total Commits**: `139`
 - **Tracked Files**: `39`
-- **Uncommitted Changes**: `No`
+- **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
 ---
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 days, 14 hours, 47 minutes`
+- **System Uptime**: `up 3 days, 14 hours, 56 minutes`
 - **MAC Address**: `00:15:5d:11:35:bd`
 - **Local IP**: `172.28.107.95`
 - **CPU Model**: `Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz`
