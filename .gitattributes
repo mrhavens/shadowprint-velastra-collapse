@@ -1,9 +1,9 @@
-# Encrypt all files in subdirectories (not the root folder)
+# Encrypt everything in subdirectories by default
 **/* filter=git-crypt diff=git-crypt
 
-# Exclude everything in these specific directories from encryption
-/.gitfield/** !filter !diff
-/docs/** !filter !diff
-
-# Also exclude files in root directory from encryption
+# Exclude files in root
 /* !filter !diff
+
+# Exclude docs and .gitfield folders
+/docs/** !filter !diff
+/.gitfield/** !filter !diff
