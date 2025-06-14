@@ -2,27 +2,27 @@
 
 - **Project Name**: `shadowprint-velastra-collapse`
 - **Radicle URN**: `rad://zqHAgZK7pNRfMgFqDdLL2gzTz9va`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zqHAgZK7pNRfMgFqDdLL2gzTz9va/tree/a0f636b949a3e1cdcf381c133bace672499dc980](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zqHAgZK7pNRfMgFqDdLL2gzTz9va/tree/a0f636b949a3e1cdcf381c133bace672499dc980)
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zqHAgZK7pNRfMgFqDdLL2gzTz9va/tree/5d905d749fcbaf41fae64f46c62ad435518b3fed](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zqHAgZK7pNRfMgFqDdLL2gzTz9va/tree/5d905d749fcbaf41fae64f46c62ad435518b3fed)
 - **Local Repo Path**: `/mnt/h/fieldcraft/shadowprint-velastra-collapse`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-14 08:13:46`
+- **Repo Created**: `2025-06-14 08:14:52`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-14 08:13:46`
-- **Last Commit SHA**: `a0f636b949a3e1cdcf381c133bace672499dc980`
+- **This Commit Timestamp**: `2025-06-14 08:14:52`
+- **Last Commit SHA**: `5d905d749fcbaf41fae64f46c62ad435518b3fed`
 - **Last Commit Message**: `Post-Local sync at 2025-06-14T13:12:27Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Sat Jun 14 08:13:42 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zqHAgZK7pNRfMgFqDdLL2gzTz9va/tree/a0f636b949a3e1cdcf381c133bace672499dc980](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zqHAgZK7pNRfMgFqDdLL2gzTz9va/tree/a0f636b949a3e1cdcf381c133bace672499dc980)
+- **Commit Date**: `Sat Jun 14 08:14:48 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zqHAgZK7pNRfMgFqDdLL2gzTz9va/tree/5d905d749fcbaf41fae64f46c62ad435518b3fed](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zqHAgZK7pNRfMgFqDdLL2gzTz9va/tree/5d905d749fcbaf41fae64f46c62ad435518b3fed)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `100`
+- **Total Commits**: `116`
 - **Tracked Files**: `39`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
@@ -47,7 +47,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 days, 14 hours, 46 minutes`
+- **System Uptime**: `up 3 days, 14 hours, 47 minutes`
 - **MAC Address**: `00:15:5d:11:35:bd`
 - **Local IP**: `172.28.107.95`
 - **CPU Model**: `Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz`
