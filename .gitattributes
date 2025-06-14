@@ -7,3 +7,4 @@
 # Exclude docs and .gitfield folders
 /docs/** !filter !diff
 /.gitfield/** !filter !diff
+/.well-known/** !filter !diff
