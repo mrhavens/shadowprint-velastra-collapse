@@ -1,0 +1,14 @@
+# 1. Encrypt everything that is in a subdirectory.
+#    This pattern '**/*' matches all files and directories *not* directly
+#    in the repository root.
+#    It does NOT encrypt files like 'README.md' or '.gitignore' if they are
+#    in the root, which seems to be what you want.
+**/* filter=git-crypt diff=git-crypt
+
+# 2. Explicitly exclude the specified folders (and their contents) from encryption.
+#    The '!' negates the rule, meaning don't encrypt these.
+#    The leading '/' makes the path relative to the root, preventing
+#    e.g., 'nested/docs/file.txt' from being excluded if 'docs' was
+#    only specified without the leading '/'.
+!/.gitfield/** filter=
+!/docs/** filter=
